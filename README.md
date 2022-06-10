@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, We are RCUET</h1>
+<h3 align="center">Robotics Club University of Engineering and Technology</h3>
 
-<!--
-**Robotics-Club-UET/Robotics-Club-UET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 We are pupils of University of Technology - VNU. 
 
-Here are some ideas to get you started:
+- 👯 We have a strong passion for robotics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 We welcome everyone with a passion for robotics
+---
+UET Robotics Club - Robotics Club -  University of Engineering and Technology - Hanoi National University.
+
+Connect with us:
+
+>📌 Fanpage: https://www.facebook.com/clbrobotics.uet
+
+>📩 Email: robotics.cgc@gmail.com
+
+>☎️ Hotline: 0325372909 (Mr. Quoc Bao)
+
+>📍 Address: 144 Xuan Thuy, Cau Giay, Hanoi
+
