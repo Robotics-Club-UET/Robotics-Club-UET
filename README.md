@@ -15,7 +15,7 @@ Connect with us:
 
 >📩 Email: robotics.cgc@gmail.com
 
->☎️ Hotline: 0325372909 (Mr. Quoc Bao)
+>☎️ Hotline: 0972182339 (Ngọc Ánh)
 
 >📍 Address: 144 Xuan Thuy, Cau Giay, Hanoi
 
